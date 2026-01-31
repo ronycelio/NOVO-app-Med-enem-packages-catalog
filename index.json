@@ -1,1 +1,11 @@
-   { "packages": [] }
+ {
+  "packages": [
+    {
+      "package_id": "pilot_pack",
+      "title": "Pacote Piloto v1",
+      "current_version": 1,
+      "zip_url": "https://github.com/ronycelio/ZIP-NOVO-app-Med-enem-packages/releases/download/pilot-pack-v1/pilot_pack_v1.zip",
+      "manifest_inside_zip": true
+    }
+  ]
+}
